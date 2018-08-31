@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "GESF8YAKPS.Sprykl.kms-technology.com",
+                "paths": ["/view/*"]
+            }
+        ]
+    }
+}
